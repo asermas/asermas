@@ -20,7 +20,7 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 | `teknocalc` | ROV ve roket ön tasarım hesapları için birim güvenli Python kütüphanesi | 🚧 |
 | `fusion360-toolkit` | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu | 🚧 |
 | `awesome-teknofest` | TEKNOFEST takımları için derlenmiş kaynak listesi | 🚧 |
-| `simhub-wled-flags` | SimHub yarış bayrakları ve RPM barını LAN üzerinden WLED şeridine gönderir | 🚧 |
+| [simhub-wled-flags](https://github.com/asermas/simhub-wled-flags) | SimHub yarış bayrakları ve RPM barını LAN üzerinden WLED şeridine gönderir | ✅ |
 | `claude-engineering-skills` | Yapay zekâ kod asistanları için mühendislik skill paketi | 🚧 |
 
 <p align="center"><sub>🇬🇧 English: <a href="README.md">README.md</a></sub></p>
