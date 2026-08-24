@@ -29,6 +29,16 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 | [simhub-wled-flags](https://github.com/asermas/simhub-wled-flags) | Race flags and RPM bar from SimHub to a WLED strip over LAN | ✅ |
 | `claude-engineering-skills` | Engineering skill pack for AI coding assistants | 🚧 |
 
+
+### Smaller tools
+
+| Project | What it is | Status |
+|---|---|---|
+| `winprofile-guard` | Repairs a corrupted Windows user profile at boot, and stops it recurring | 🚧 |
+| `forza-ffb-toolkit` | PowerShell diagnostics for force feedback on a DirectInput wheel | 🚧 |
+| `esp32-wled-ambilight` | ESP32 + WS2812B ambilight build: sketches, WLED config, Google Home | 🚧 |
+| `bambu-p1s-profiles` | Print profiles and calibration notes for the Bambu Lab P1S | 🚧 |
+
 ### Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
