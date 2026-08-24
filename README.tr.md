@@ -14,13 +14,13 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 
 ### Buradaki projeler
 
-| Proje | Nedir |
-|---|---|
-| [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler |
-| [teknocalc](https://github.com/asermas/teknocalc) | ROV ve roket ön tasarım hesapları için birim güvenli Python kütüphanesi |
-| [fusion360-toolkit](https://github.com/asermas/fusion360-toolkit) | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu |
-| [awesome-teknofest](https://github.com/asermas/awesome-teknofest) | TEKNOFEST takımları için derlenmiş kaynak listesi |
-| [simhub-wled-flags](https://github.com/asermas/simhub-wled-flags) | SimHub yarış bayrakları ve RPM barını LAN üzerinden WLED şeridine gönderir |
-| [claude-engineering-skills](https://github.com/asermas/claude-engineering-skills) | Yapay zekâ kod asistanları için mühendislik skill paketi |
+| Proje | Nedir | Durum |
+|---|---|---|
+| `teknofest-report-kit` | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler | 🚧 |
+| `teknocalc` | ROV ve roket ön tasarım hesapları için birim güvenli Python kütüphanesi | 🚧 |
+| `fusion360-toolkit` | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu | 🚧 |
+| `awesome-teknofest` | TEKNOFEST takımları için derlenmiş kaynak listesi | 🚧 |
+| `simhub-wled-flags` | SimHub yarış bayrakları ve RPM barını LAN üzerinden WLED şeridine gönderir | 🚧 |
+| `claude-engineering-skills` | Yapay zekâ kod asistanları için mühendislik skill paketi | 🚧 |
 
 <p align="center"><sub>🇬🇧 English: <a href="README.md">README.md</a></sub></p>
