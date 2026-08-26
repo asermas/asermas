@@ -37,7 +37,7 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 | [winprofile-guard](https://github.com/asermas/winprofile-guard) | Repairs a corrupted Windows user profile at boot, and stops it recurring | ✅ |
 | [forza-ffb-toolkit](https://github.com/asermas/forza-ffb-toolkit) | PowerShell diagnostics for force feedback on a DirectInput wheel | ✅ |
 | `esp32-wled-ambilight` | ESP32 + WS2812B ambilight build: sketches, WLED config, Google Home | 🚧 |
-| `bambu-p1s-profiles` | Print profiles and calibration notes for the Bambu Lab P1S | 🚧 |
+| [bambu-p1s-profiles](https://github.com/asermas/bambu-p1s-profiles) | Print profiles and calibration notes for the Bambu Lab P1S | ✅ |
 
 ### Toolbox
 

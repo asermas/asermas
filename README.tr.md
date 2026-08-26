@@ -31,6 +31,6 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 | [winprofile-guard](https://github.com/asermas/winprofile-guard) | Bozulan Windows kullanıcı profilini açılışta onarır, tekrarını engeller | ✅ |
 | [forza-ffb-toolkit](https://github.com/asermas/forza-ffb-toolkit) | DirectInput direksiyonda force feedback için PowerShell teşhis seti | ✅ |
 | `esp32-wled-ambilight` | ESP32 + WS2812B ambilight kurulumu: sketch'ler, WLED ayarı, Google Home | 🚧 |
-| `bambu-p1s-profiles` | Bambu Lab P1S için baskı profilleri ve kalibrasyon notları | 🚧 |
+| [bambu-p1s-profiles](https://github.com/asermas/bambu-p1s-profiles) | Bambu Lab P1S için baskı profilleri ve kalibrasyon notları | ✅ |
 
 <p align="center"><sub>🇬🇧 English: <a href="README.md">README.md</a></sub></p>
