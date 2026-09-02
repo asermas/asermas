@@ -16,7 +16,7 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 
 | Proje | Nedir | Durum |
 |---|---|---|
-| `teknofest-report-kit` | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler | 🚧 |
+| [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler | ✅ |
 | [teknocalc](https://github.com/asermas/teknocalc) | ROV ve roket ön tasarım hesapları için birim güvenli Python kütüphanesi | ✅ |
 | `fusion360-toolkit` | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu | 🚧 |
 | [awesome-teknofest](https://github.com/asermas/awesome-teknofest) | TEKNOFEST takımları için derlenmiş kaynak listesi | ✅ |

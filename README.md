@@ -22,7 +22,7 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 
 | Project | What it is | Status |
 |---|---|---|
-| `teknofest-report-kit` | Generate and lint TEKNOFEST design reports (KTR/CDR/FRR) from a YAML spec | 🚧 |
+| [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | Generate and lint TEKNOFEST design reports (KTR/CDR/FRR) from a YAML spec | ✅ |
 | [teknocalc](https://github.com/asermas/teknocalc) | Unit-safe Python library for ROV and rocket preliminary sizing | ✅ |
 | `fusion360-toolkit` | Fusion 360 add-in: batch export, parametric variants, drawing automation | 🚧 |
 | [awesome-teknofest](https://github.com/asermas/awesome-teknofest) | Curated resources for TEKNOFEST teams | ✅ |
