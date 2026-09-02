@@ -27,7 +27,7 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 | `fusion360-toolkit` | Fusion 360 add-in: batch export, parametric variants, drawing automation | 🚧 |
 | [awesome-teknofest](https://github.com/asermas/awesome-teknofest) | Curated resources for TEKNOFEST teams | ✅ |
 | [simhub-wled-flags](https://github.com/asermas/simhub-wled-flags) | Race flags and RPM bar from SimHub to a WLED strip over LAN | ✅ |
-| `claude-engineering-skills` | Engineering skill pack for AI coding assistants | 🚧 |
+| [claude-engineering-skills](https://github.com/asermas/claude-engineering-skills) | Engineering skill pack for AI coding assistants | ✅ |
 
 
 ### Smaller tools

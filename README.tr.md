@@ -21,7 +21,7 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 | `fusion360-toolkit` | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu | 🚧 |
 | [awesome-teknofest](https://github.com/asermas/awesome-teknofest) | TEKNOFEST takımları için derlenmiş kaynak listesi | ✅ |
 | [simhub-wled-flags](https://github.com/asermas/simhub-wled-flags) | SimHub yarış bayrakları ve RPM barını LAN üzerinden WLED şeridine gönderir | ✅ |
-| `claude-engineering-skills` | Yapay zekâ kod asistanları için mühendislik skill paketi | 🚧 |
+| [claude-engineering-skills](https://github.com/asermas/claude-engineering-skills) | Yapay zekâ kod asistanları için mühendislik skill paketi | ✅ |
 
 
 ### Küçük araçlar
