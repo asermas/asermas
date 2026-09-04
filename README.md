@@ -22,6 +22,8 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 
 | Project | What it is | Status |
 |---|---|---|
+| [masstudio](https://github.com/asermas/masstudio) | Open source image editor: layered documents, PSD read+write, RAW, local AI tools | ✅ |
+| [agentbeacon](https://github.com/asermas/agentbeacon) | Desk status tower for AI coding agents — green means working, amber means one needs you | ✅ |
 | [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | Generate and lint TEKNOFEST design reports (KTR/CDR/FRR) from a YAML spec | ✅ |
 | [teknocalc](https://github.com/asermas/teknocalc) | Unit-safe Python library for ROV and rocket preliminary sizing | ✅ |
 | [fusion360-toolkit](https://github.com/asermas/fusion360-toolkit) | Fusion 360 add-in: batch export, parametric variants, drawing automation | ✅ |
@@ -34,6 +36,7 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 
 | Project | What it is | Status |
 |---|---|---|
+| [windows-memory-tools](https://github.com/asermas/windows-memory-tools) | Windows memory scripts that state what each technique costs, not just what it frees | ✅ |
 | [winprofile-guard](https://github.com/asermas/winprofile-guard) | Repairs a corrupted Windows user profile at boot, and stops it recurring | ✅ |
 | [forza-ffb-toolkit](https://github.com/asermas/forza-ffb-toolkit) | PowerShell diagnostics for force feedback on a DirectInput wheel | ✅ |
 | [esp32-wled-ambilight](https://github.com/asermas/esp32-wled-ambilight) | ESP32 + WS2812B ambilight build: sketches, WLED config, Google Home | ✅ |

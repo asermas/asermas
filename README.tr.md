@@ -16,6 +16,8 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 
 | Proje | Nedir | Durum |
 |---|---|---|
+| [masstudio](https://github.com/asermas/masstudio) | Açık kaynak görüntü düzenleyici: katmanlı belgeler, PSD okuma+yazma, RAW, yerel AI araçları | ✅ |
+| [agentbeacon](https://github.com/asermas/agentbeacon) | Yapay zekâ kodlama ajanları için masa durum kulesi — yeşil çalışıyor, sarı biri seni bekliyor | ✅ |
 | [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler | ✅ |
 | [teknocalc](https://github.com/asermas/teknocalc) | ROV ve roket ön tasarım hesapları için birim güvenli Python kütüphanesi | ✅ |
 | [fusion360-toolkit](https://github.com/asermas/fusion360-toolkit) | Fusion 360 eklentisi: toplu export, parametrik varyant, teknik resim otomasyonu | ✅ |
@@ -28,6 +30,7 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 
 | Proje | Nedir | Durum |
 |---|---|---|
+| [windows-memory-tools](https://github.com/asermas/windows-memory-tools) | Her tekniğin neyi serbest bıraktığını değil, neye mal olduğunu söyleyen Windows bellek script'leri | ✅ |
 | [winprofile-guard](https://github.com/asermas/winprofile-guard) | Bozulan Windows kullanıcı profilini açılışta onarır, tekrarını engeller | ✅ |
 | [forza-ffb-toolkit](https://github.com/asermas/forza-ffb-toolkit) | DirectInput direksiyonda force feedback için PowerShell teşhis seti | ✅ |
 | [esp32-wled-ambilight](https://github.com/asermas/esp32-wled-ambilight) | ESP32 + WS2812B ambilight kurulumu: sketch'ler, WLED ayarı, Google Home | ✅ |
