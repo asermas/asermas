@@ -4,6 +4,12 @@
   Makine mühendisliği öğrencisi · sualtı ve roket donanımı · CAD otomasyonu
 </p>
 
+<p align="center">
+  <img alt="Profil görüntülenme" src="https://komarev.com/ghpvc/?username=asermas&style=flat-square&color=2f81f7&label=profil+g%C3%B6r%C3%BCnt%C3%BClenme">
+  <a href="https://github.com/asermas?tab=repositories&sort=stargazers"><img alt="Toplam yıldız" src="https://img.shields.io/github/stars/asermas?style=flat-square&label=toplam+y%C4%B1ld%C4%B1z&color=e3b341"></a>
+  <a href="https://github.com/asermas?tab=followers"><img alt="Takipçi" src="https://img.shields.io/github/followers/asermas?style=flat-square&label=takip%C3%A7i&color=8957e5"></a>
+</p>
+
 ---
 
 Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında, yüksek hızlı akışta ya da 220 °C'lik bir nozulun ucunda.

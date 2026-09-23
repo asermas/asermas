@@ -10,6 +10,12 @@
   <img alt="CAD" src="https://img.shields.io/badge/CAD-Fusion%20360-orange?style=flat-square">
 </p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=asermas&style=flat-square&color=2f81f7&label=profile+views">
+  <a href="https://github.com/asermas?tab=repositories&sort=stargazers"><img alt="Total stars" src="https://img.shields.io/github/stars/asermas?style=flat-square&label=total+stars&color=e3b341"></a>
+  <a href="https://github.com/asermas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/asermas?style=flat-square&color=8957e5"></a>
+</p>
+
 ---
 
 I build things that have to survive somewhere unfriendly — 30 m of water, Mach-adjacent airflow, or a 220 °C hotend.
