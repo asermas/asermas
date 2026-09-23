@@ -22,6 +22,7 @@ I build things that have to survive somewhere unfriendly — 30 m of water, Mach
 
 | Project | What it is | Status |
 |---|---|---|
+| [maslight](https://github.com/asermas/maslight) | Open source ambilight: screen capture to addressable LEDs over WLED, DDP, sACN, Art-Net and Adalight | ✅ |
 | [masstudio](https://github.com/asermas/masstudio) | Open source image editor: layered documents, PSD read+write, RAW, local AI tools | ✅ |
 | [agentbeacon](https://github.com/asermas/agentbeacon) | Desk status tower for AI coding agents — green means working, amber means one needs you | ✅ |
 | [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | Generate and lint TEKNOFEST design reports (KTR/CDR/FRR) from a YAML spec | ✅ |

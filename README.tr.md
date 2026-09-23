@@ -16,6 +16,7 @@ Zor koşullarda çalışması gereken şeyler tasarlıyorum — 30 m su altında
 
 | Proje | Nedir | Durum |
 |---|---|---|
+| [maslight](https://github.com/asermas/maslight) | Açık kaynak ambilight: ekran yakalamadan adreslenebilir LED'lere; WLED, DDP, sACN, Art-Net, Adalight | ✅ |
 | [masstudio](https://github.com/asermas/masstudio) | Açık kaynak görüntü düzenleyici: katmanlı belgeler, PSD okuma+yazma, RAW, yerel AI araçları | ✅ |
 | [agentbeacon](https://github.com/asermas/agentbeacon) | Yapay zekâ kodlama ajanları için masa durum kulesi — yeşil çalışıyor, sarı biri seni bekliyor | ✅ |
 | [teknofest-report-kit](https://github.com/asermas/teknofest-report-kit) | TEKNOFEST tasarım raporlarını (KTR/CDR/FRR) YAML'dan üretir ve şartnameye göre denetler | ✅ |
